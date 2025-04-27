@@ -21,7 +21,6 @@ interface PROPS {
   params: {
     "template-slug": string;
   };
-  slug: string;
 }
 
 function CreateNewContent(props: PROPS) {
